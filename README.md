@@ -1,0 +1,1 @@
+Este proyecto es una segunda prueba de la tarea de construir una homepage al estilo de Google, hecho para seguir memorizando lo aprendido.
